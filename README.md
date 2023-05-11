@@ -56,6 +56,7 @@ Feel free to reach out and say hi 😄
 ## Statistics
 
 ![stats](https://github-readme-stats.vercel.app/api?username=jayrmesa&count_private=true&show_icons=true&rank_icon=github&theme=blue-green)
+
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayrmesa&count_private=true&show_icons=true&rank_icon=github&theme=blue-green)
 
 ⚡ Fun fact: I'm allergic to seafood but I eat it sometimes. I don't really C the problem. 😆
