@@ -6,17 +6,20 @@
 
 ## **Projects**
 
-💬 Here are the three projects I've worked on recently:
+💬 Here are the latest projects I have recently worked on:
 
 - [Slay The KIng](https://github.com/jayrmesa/slay-the-king): a turn-based combat game where the player faces off against a powerful King.
-- [Interview Scheduler](https://github.com/jayrmesa/scheduler): An app that allows users to book technical interviews between students and mentors.
-- [Mapr](https://github.com/laurenashley/mapr): A global map app that enables users to view, create, favorite and delete maps and pins.
+- [Interview Scheduler](https://github.com/jayrmesa/scheduler): an app that allows users to book technical interviews between students and mentors.
+- [Jungle](https://github.com/jayrmesa/Jungle): a mini e-commerce application that sells residential and indoor plants.
+- [Mapr](https://github.com/laurenashley/mapr): a global map app that enables users to view, create, favorite and delete maps and pins.
+
 
 ### 📫 Feel free to connect and say hi 😄
 
 [![email](https://img.shields.io/badge/jayrmesa@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jayrmesa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/arnoldmesa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mesa/)
 [![Discord](https://img.shields.io/badge/JayR-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/sEswkYJcd)
+[![Instagram](https://img.shields.io/badge/-jayr_mesa-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayr_mesa/)](https://www.instagram.com/jayr_mesa)
 
 ### <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/TS.png" width="20px" height="20px" /> TechStack
 
