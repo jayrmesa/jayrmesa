@@ -49,7 +49,7 @@
 </p>
 
 
-⚡ Joke Facts: Why did the programmer quit his job? Because he didn’t get arrays… 😆
+⚡ Joke Facts: Why did the programmer quit his job? Because he didn’t get arrays…  
 
 <!--
 **jayrmesa/jayrmesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
