@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hello! 👋
 
-😄 Hi, I'm JayR, a recent graduate in Full-Stack Web Development from Lighthouse Labs. I have experience in creating dynamic web applications that are both functional and user-friendly. I am dedicated to using my knowledge and skills to develop practical solutions that improve people's day to day lives. I am also committed to keeping up with the latest industry trends and technologies to deliver the best results.
+😄 Hi, I'm JayR, a recent graduate in Full-Stack Web Development from Lighthouse Labs. I have learn to create dynamic web applications that are user-friendly. I want to use what I learn and honed my skills to develop applications that improve people's day to day lives.
 
 🔭 Currently, I am updating my resume and LinkedIn profile to discover exciting junior web development opportunities!
 
