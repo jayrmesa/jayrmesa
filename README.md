@@ -45,7 +45,7 @@
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo==postgresql&logoColor=white)](https://www.postgresql.org/)
 
 
-<img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/fsd.gif" width="700px" height="300px" />
+<img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/fsd.gif" width="800px" height="330px" />
 
 
 ⚡ Fun fact: I'm allergic to seafood but I eat it sometimes. I don't really C the problem. 😆
