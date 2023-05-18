@@ -18,7 +18,7 @@
 [![LinkedIn](https://img.shields.io/badge/arnoldmesa-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mesa/)
 [![Discord](https://img.shields.io/badge/JayR-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/invite/sEswkYJcd)
 
-### <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/TS.png" width="20px" height="20px" /> **TechStack**
+### <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/TS.png" width="20px" height="20px" /> TechStack
 
 [![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com/resources) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.com/html5/)
@@ -51,7 +51,7 @@
 
 ⚡ Joke Facts: Why did the programmer quit his job? Because he didn’t get arrays… <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/laughing.gif" width="80px" height="40px" /> 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjayrmesa&labelColor=%234c4c6d&countColor=%231b9c85&style=flat-square)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjayrmesa&label=Visitors%20Total&labelColor=%234c4c6d&countColor=%231b9c85&style=flat-square)
 
 <!--
 **jayrmesa/jayrmesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
