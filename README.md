@@ -45,11 +45,11 @@
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo==postgresql&logoColor=white)](https://www.postgresql.org/)
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/FullDev.gif" />
+  <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/FullDev.gif" />
 </p>
 
 
-⚡ Fun fact: I'm allergic to seafood but I eat it sometimes. I don't really C the problem. 😆
+⚡ Joke Facts: Why did the programmer quit his job? Because he didn’t get arrays… 😆
 
 <!--
 **jayrmesa/jayrmesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
