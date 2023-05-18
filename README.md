@@ -6,7 +6,7 @@
 
 ## **Projects**
 
-💬 Here are the projects I've worked on recently:
+💬 Here are the three projects I've worked on recently:
 
 - [Slay The KIng](https://github.com/jayrmesa/slay-the-king): a turn-based combat game where the player faces off against a powerful King.
 - [Interview Scheduler](https://github.com/jayrmesa/scheduler): An app that allows users to book technical interviews between students and mentors.
