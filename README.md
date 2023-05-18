@@ -51,6 +51,8 @@
 
 ⚡ Joke Facts: Why did the programmer quit his job? Because he didn’t get arrays… <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/laughing.gif" width="80px" height="40px" /> 
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fjayrmesa&labelColor=%234c4c6d&countColor=%231b9c85&style=flat-square)
+
 <!--
 **jayrmesa/jayrmesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
