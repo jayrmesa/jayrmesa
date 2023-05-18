@@ -1,8 +1,8 @@
-# Hello! 👋
+# Hello! <img src="https://raw.githubusercontent.com/jayrmesa/jayrmesa/main/hello.gif" width="40px" height="40px" />
 
-😄 Hi, I'm JayR, a recent graduate in Full-Stack Web Development from Lighthouse Labs. I have learn to create dynamic web applications that are user-friendly. I want to use what I learn and honed my skills to develop applications that improve people's day to day lives.
+😄 Hi, I'm JayR, a recent graduate in Full-Stack Web Development from Lighthouse Labs. I have learn to create dynamic web applications that are user-friendly and functional. I want to use what I learned and honed my skills to develop applications that improve people's day to day lives.
 
-🔭 Currently, I am updating my resume and LinkedIn profile to discover exciting junior web development opportunities!
+🔭 Currently, I am updating my resume and LinkedIn profile
 
 ## **Projects**
 
@@ -14,7 +14,7 @@
 
 ## 🖮 **Languages**
 
-[![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/resources) 
+[![Javascript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)](https://www.javascript.com/resources) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.com/html5/)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 [![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
@@ -45,19 +45,13 @@
 [![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-## 📫 How to reach me
-
-Feel free to reach out and say hi 😄
+## 📫 Feel free to reach out and say hi 😄
 
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayrmesa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnold-mesa/)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/sEswkYJcd)
 
-## Statistics
 
-![stats](https://github-readme-stats.vercel.app/api?username=jayrmesa&count_private=true&show_icons=true&rank_icon=github&theme=blue-green)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jayrmesa&count_private=true&show_icons=true&rank_icon=github&theme=blue-green)
 
 ⚡ Fun fact: I'm allergic to seafood but I eat it sometimes. I don't really C the problem. 😆
 
