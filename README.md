@@ -2,16 +2,16 @@
 
 😄 Hi, I'm JayR, a recent graduate in Full-Stack Web Development from Lighthouse Labs. I have learn to create dynamic web applications that are user-friendly and functional. I want to use what I learned and honed my skills to develop applications that improve people's day to day lives.
 
-🔭 Currently, I am updating my resume, LinkedIn profile and thinking about what to create a puzzle game using React
+🔭 Currently, I am updating my resume, LinkedIn profile and learning C#
 
 ## **Projects**
 
 💬 Here are the latest projects I have recently worked on:
 
+- [Shuffler](https://github.com/jayrmesa/randomNumbers): An app that generates a list of 10,000 numbers in random order each time it is run.
 - [Slay The KIng](https://github.com/jayrmesa/slay-the-king): a turn-based combat game where the player faces off against a powerful King.
 - [Interview Scheduler](https://github.com/jayrmesa/scheduler): an app that allows users to book technical interviews between students and mentors.
 - [Jungle](https://github.com/jayrmesa/Jungle): a mini e-commerce application that sells residential and indoor plants.
-- [Mapr](https://github.com/laurenashley/mapr): a global map app that enables users to view, create, favorite and delete maps and pins.
 
 
 ### 📫 Feel free to connect and say hi 😄
